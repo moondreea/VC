@@ -1,5 +1,12 @@
 {
 "DG": "Test",
 "Data Glacier": "Cricket",
+<<<<<<< Updated upstream
 "Monica": "salsa"
+=======
+"a": "b",
+"c": "d",
+"Monica Paraschiv": "swimming",
+"Monica": "football"
+>>>>>>> Stashed changes
 }
